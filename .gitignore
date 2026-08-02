@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.llm_cache/
+.llm_cache_final/
+code.zip
+*.log
+retest.txt
+run_*.txt
+probe_*.txt
+prompt_probe_*.txt
+diag_*.py
+test_msg005_route.py
+temp_repo/
+dataset/output_FINAL.csv
+dataset/output_BACKUP.csv
+dataset/output_SAFE*.csv
